@@ -1,0 +1,2 @@
+{"method":"POST","url":"https://example.invalid/search","content_type":"application/x-www-form-urlencoded","body":"q=test&lang=en","params":["q"]}
+{"method":"POST","url":"https://example.invalid/api/search","content_type":"application/json","body":{"query":"test","limit":10},"params":["query"]}

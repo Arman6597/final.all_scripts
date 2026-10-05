@@ -1,0 +1,3 @@
+{"method":"GET","url":"https://example.invalid/search?q=test&lang=en"}
+{"method":"GET","url":"https://example.invalid/download?file=manual.txt"}
+{"method":"GET","url":"https://example.invalid/search?q=test&lang=en"}

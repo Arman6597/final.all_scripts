@@ -1,0 +1,1 @@
+{"url":"https://app.example.test/orders?id=100","cookie_victim_file":"cookies/account1.txt","cookie_attacker_file":"cookies/account2.txt","attacker_ids":{"id":200},"id_params":["id"],"mode":"direct"}
